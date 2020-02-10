@@ -2,17 +2,22 @@
 layout: default
 ---
 
-This is the presentation page for **QA Assistant**,  a tool that literally provides assistance to checking a batch of .msg (Outlook) emails in the quality assurance (QA) phase. It was developed for the purpose of making some steps of QA process automatically.
+This is the presentation page for **QA Assistant**,  a tool that literally provides assistance to checking a batch of .msg (Outlook) emails in the quality assurance (QA) phase.
+It was developed for the purpose of making some steps of QA process automatically.
 
-This program was coded in Python language by _Berke Öztürk_
-
-
-While making internal QA for the e-mail campaigns, the team shares local proofs as a zip file that includes outlook (.msg) mails.
-These are some of the manual steps after a colleague takes one QA job of a campaign built by another person:
-*   local proofs: refers to emails that have dynamic text language and the URLs. For example; fr_fr proof has French e-mail and goes to the fr_fr version of the landing page if a CTA has been performed.
+© This program was coded in Python language by _Berke Öztürk_
 
 
-### QA Steps
+
+While making QA for the e-mail campaigns, the team shares local proofs as a zip file that includes outlook (.msg) mails.
+*   local proofs: refers to emails that have dynamic text language and the URLs. E.g. "fr_fr" proof has French copy and goes to the "fr_fr" version of the landing page when a CTA has been performed.
+
+
+_These are some of the manual steps after a colleague takes one QA job of a campaign built by another person:_
+
+
+
+## QA Steps
 
 1.  Jira ticket should be opened to see applied changes and check launching instructions for the QA of automation.
 2.  All local proofs are opened one by one and checked in Outlook then “View e-mail online” button insde the e-mail is clicked.
