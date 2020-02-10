@@ -9,7 +9,7 @@ It was developed for the purpose of making some steps of QA process automaticall
 
 
 © This program was coded in Python language by _Berke Öztürk_
-<br><br>
+<br><br><br>
 While making QA for the e-mail campaigns, the team shares local proofs as a zip file that includes outlook (.msg) mails.
 
 > Local proofs: emails that have dynamic text language and the URLs.
