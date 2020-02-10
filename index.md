@@ -2,13 +2,24 @@
 layout: default
 ---
 
-This is the presentation page for **QA Assistant**, which is coded in Python language by _Berke Öztürk_
+This is the presentation page for **QA Assistant**,  a tool that literally provides assistance to checking a batch of .msg (Outlook) emails in the quality assurance (QA) phase. It was developed for the purpose of making some steps of QA process automatically.
 
-[Link to another page](./another-page.html).
+This program was coded in Python language by _Berke Öztürk_
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+While making internal QA for the e-mail campaigns, the team shares local proofs as a zip file that includes outlook (.msg) mails.
+These are some of the manual steps after a colleague takes one QA job of a campaign built by another person:
+*   local proofs: refers to emails that have dynamic text language and the URLs. For example; fr_fr proof has French e-mail and goes to the fr_fr version of the landing page if a CTA has been performed.
+
+
+### QA Steps
+
+1.  Jira ticket should be opened to see applied changes and check launching instructions for the QA of automation.
+2.  All local proofs are opened one by one and checked in Outlook then “View e-mail online” button insde the e-mail is clicked.
+3.  All e-mails open in browser.
+4.  They should be checked in private mode.
+5.  All CTAs and necessary links should be clicked.
+6.  Landing pages’ urls should be checked to see if they are live and works properly as they should be
 
 # Header 1
 
@@ -37,7 +48,7 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### Header 4
+
 
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
