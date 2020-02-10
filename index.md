@@ -20,7 +20,7 @@ While making QA for the e-mail campaigns, the team shares local proofs as a zip 
 
 <br><br>
 _These are some of the manual steps after a colleague takes one QA job of a campaign built by another person:_
-<br><br>
+
 ## QA Steps
 
 1.  Jira ticket should be opened to see applied changes and check launching instructions for the QA of automation.
