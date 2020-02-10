@@ -1,5 +1,5 @@
 title: QA Assistant
 description: A tool to help QA processes become faster and securer.
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
