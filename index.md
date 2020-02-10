@@ -30,9 +30,11 @@ _These are some of the manual steps after a colleague takes one QA job of a camp
 5.  All CTAs and necessary links should be clicked.
 6.  Landing pages’ urls should be checked to see if they are live and works properly as they should be
 
-<h1 style="color: #eb7434">Header 1</h1>
+<h1 style="color: #eb7434">What does the tool do?</h1>
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+*   The tool can open many things automatically and can open directly in incognito mode of the browser.
+<br>
+_**The user interface shows the options you can choose with the tool in the images below:**_
 
 # Header 1
 
