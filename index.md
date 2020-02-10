@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+This is the presentation page for **QA Assistant**, which is coded in Python language by _Berke Öztürk_
 
 [Link to another page](./another-page.html).
 
