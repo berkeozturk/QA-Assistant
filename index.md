@@ -7,6 +7,7 @@ This is the presentation page for **QA Assistant**,  a tool that literally provi
 It was developed for the purpose of making some steps of QA process automatically.
 
 
+
 © This program was coded in Python language by _Berke Öztürk_
 
 
@@ -15,6 +16,7 @@ It was developed for the purpose of making some steps of QA process automaticall
 While making QA for the e-mail campaigns, the team shares local proofs as a zip file that includes outlook (.msg) mails.
 
 > Local proofs: emails that have dynamic text language and the URLs.
+>
 > E.g. "fr_fr" proof has French copy and goes to the "fr_fr" version of the landing page when a CTA has been performed. 
 
 
