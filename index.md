@@ -10,18 +10,17 @@ It was developed for the purpose of making some steps of QA process automaticall
 
 © This program was coded in Python language by _Berke Öztürk_
 <br><br><br>
+**The process:**
+
 While making QA for the e-mail campaigns, the team shares local proofs as a zip file that includes outlook (.msg) mails.
 
 > Local proofs: emails that have dynamic text language and the URLs.
 >
 > E.g. "fr_fr" proof has French copy and goes to the "fr_fr" version of the landing page when a CTA has been performed. 
 
-
-
+<br><br>
 _These are some of the manual steps after a colleague takes one QA job of a campaign built by another person:_
-
-
-
+<br><br>
 ## QA Steps
 
 1.  Jira ticket should be opened to see applied changes and check launching instructions for the QA of automation.
