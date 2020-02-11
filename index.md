@@ -12,11 +12,11 @@ It was developed for the purpose of making some steps of QA process automaticall
 <br><br><br>
 **Root cause of this need:**
 
-While making QA for the e-mail campaigns, the team shares local proofs as a zip file that includes outlook (.msg) mails. Since checking these emails both online and offline are fatiguing; the opening and clicking efforts for these actions must be optimized.
+While making QA for the e-mail campaigns, the team shares local proofs* as a zip file that includes outlook (.msg) mails. Since checking these emails both online and offline are fatiguing; the opening and clicking efforts for these actions must be optimized.
 
-> Local proofs: emails that have dynamic text language and the URLs.
+> Local proofs: localized emails that have dynamic text language and URL.
 >
-> E.g. "fr_fr" proof has French copy and goes to the "fr_fr" version of the landing page when a CTA has been performed. 
+> E.g. "fr_fr" proof contains French copy and goes to the "fr_fr" version of the landing page when CTA has been performed. 
 
 <br><br id="qa_steps">
 _These are some of the manual steps after a colleague takes one QA job of a campaign built by another person:_
@@ -103,7 +103,9 @@ This is only put for a little ease. It opens ticket page of campaign. QA maker m
 
 
 <h1 style="color: #eb4f34">What does the tool facilitate?</h1>
-→   The unproductive time spent to open local e-mails one by one and all clicking efforts decrease.
-→   This benefits to saving time and more importantly positively affects team members’ motivation and concentration by decreasing the robotic parts of QA process.
+↪  The unproductive time spent to open local e-mails one by one and all clicking efforts decrease.
 
+↪  This benefits to saving time and more importantly positively affects team members’ motivation and concentration by decreasing the robotic parts of QA process.
+
+<br>
 <br>
