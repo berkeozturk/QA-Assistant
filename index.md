@@ -38,17 +38,10 @@ _These are some of the manual steps after a colleague takes one QA job of a camp
 _**The user interface shows the options you can choose with the tool in the images below:**_
 
 ##  Home Screen (Requesting the path)
-
-<img src="/QA-Assistant/assets/images/empty_first.png" alt="empty_first.png" style="max-width: 360px">
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
 <br><br>
-
 <div style="overflow: auto">
   <img src="/QA-Assistant/assets/images/empty_first.png" alt="empty_first.png" style="max-width: 360px; float: left; margin-right: 15px;">
-  <p style="font: 1rem Consolas, 'Liberation Mono', Menlo, Courier, monospace; color: #567482; background-color: #f3f6fa; border: solid 1px #dce6f0; padding: 0.8rem; overflow: auto; font-size: 17px; line-height: 1.45; border-radius: 0.3rem;">asdasdlasdlajsldalsdjla</p>
-  <pre style="highlight">asdasdlasdlajsldalsdjla</pre>
+  <p style="font: 1rem Consolas, 'Liberation Mono', Menlo, Courier, monospace; color: #567482; background-color: #f3f6fa; border: solid 1px #dce6f0; padding: 0.8rem; overflow: auto; font-size: 17px; line-height: 1.45; border-radius: 0.3rem; margin:0">Tool first asks user to enter the path of a folder only consisting of .msg files.<br>An example of this folder can be seen in the next picture</p>
 </div>
 
 ## Header 2
