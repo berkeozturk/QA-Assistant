@@ -43,7 +43,7 @@ _**The user interface shows the options you can choose with the tool in the imag
   <img src="/QA-Assistant/assets/images/empty_first.png" alt="empty_first.png" style="max-width: 370px; float: left; margin-right: 15px;">
   <p style="color: #567482; background-color: #f3f6fa; border: solid 1px #dce6f0; padding: 0.8rem; overflow: auto; font-size: 16px; line-height: 1.45; border-radius: 0.3rem; margin:0">Tool first asks user to enter the path of a folder only consisting of .msg files.<br><br><br>An example of this folder can be seen in the next <a href="#folder">picture</a></p>
 </div>
-<br id="folder">
+<br id="folder"></br>
 ## Sample Folder
 
 <div style="overflow: auto">
