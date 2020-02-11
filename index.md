@@ -69,7 +69,7 @@ _**The user interface shows the options you can choose with the tool in the imag
   <img src="/QA-Assistant/assets/images/qa_options.png" alt="qa_options" style="max-width: 530px; float: left; margin: 0 15px 15px 0;">
   <p style="color: #567482; background-color: #f3f6fa; border: solid 1px #dce6f0; padding: 0.8rem; overflow: auto; font-size: 16px; line-height: 1.45; border-radius: 0.3rem; margin:0">Options are shown as checkboxes so that they can be executed altogether in one go.<br><br><br>After the execution is completed, home screen opens with the last executed path already in input and can be edited for a new run.</p>
 </div>
-> _View E-mails Online_
+### > _View E-mails Online_
 > 
 
 *   E-mails are opened in private mode of the browser.
