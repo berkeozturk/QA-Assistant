@@ -43,7 +43,7 @@ _**The user interface shows the options you can choose with the tool in the imag
   <img src="/QA-Assistant/assets/images/empty_first.png" alt="empty_first.png" style="max-width: 370px; float: left; margin: 0 15px 15px 0;">
   <p style="color: #567482; background-color: #f3f6fa; border: solid 1px #dce6f0; padding: 0.8rem; overflow: auto; font-size: 16px; line-height: 1.45; border-radius: 0.3rem; margin:0">Tool first asks user to enter the path of a folder only consisting of .msg files.<br><br><br>An example of this folder can be seen in the next <a href="#folder">picture</a></p>
 </div>
-<br id="folder">
+<p id="folder"></p>
 ## Sample Folder
 
 <div style="overflow: auto">
@@ -52,14 +52,14 @@ _**The user interface shows the options you can choose with the tool in the imag
 </div>
 > _Location Bar:_
 > <img src="/QA-Assistant/assets/images/copied_path.png" alt="path of a folder" style="max-width: 420px; display: block">
-> 
+ 
 > At this point, you can refresh your knowledge by reading required <a href="#qa_steps">QA Steps</a> again.
 
 ## Start the program
 
 <div style="overflow: auto">
   <img src="/QA-Assistant/assets/images/filled_first.png" alt="filled_first.png" style="max-width: 370px; float: left; margin: 0 15px 15px 0;">
-  <p style="color: #567482; background-color: #f3f6fa; border: solid 1px #dce6f0; padding: 0.8rem; overflow: auto; font-size: 16px; line-height: 1.45; border-radius: 0.3rem; margin:0">Copy the path of the folder by clicking inside the location bar<br><br><br> Paste the path to the input row.<br>Then press OK.</p>
+  <p style="color: #567482; background-color: #f3f6fa; border: solid 1px #dce6f0; padding: 0.8rem; overflow: auto; font-size: 16px; line-height: 1.45; border-radius: 0.3rem; margin:0">Copy the path of the folder by clicking inside the location bar<br><br> Paste the path to the input row.<br><br>Then press OK.</p>
 </div>
 > At this point, you can refresh your knowledge by reading required <a href="#qa_steps">QA Steps</a> again.
 > 
