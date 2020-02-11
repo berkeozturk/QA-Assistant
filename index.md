@@ -52,7 +52,7 @@ _**The user interface shows the options you can choose with the tool in the imag
 </div>
 > At this point, you can refresh your knowledge by reading required <a href="#qa_steps">QA Steps</a> again.
 > 
-> <img src="/QA-Assistant/assets/images/copied_path.png" alt="copied_path.png" style="max-width: 370px; float: left; margin: 0 15px 15px 0;">
+> <img src="/QA-Assistant/assets/images/copied_path.png" alt="copied_path.png" style="max-width: 370px; display: block">
 <br id="">
 
 ## Start the program
