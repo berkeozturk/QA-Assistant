@@ -51,7 +51,7 @@ _**The user interface shows the options you can choose with the tool in the imag
   <p style="color: #567482; background-color: #f3f6fa; border: solid 1px #dce6f0; padding: 0.8rem; overflow: auto; font-size: 16px; line-height: 1.45; border-radius: 0.3rem; margin:0">This folder should only include .msg files; otherwise the program gives error.<br><br><br>As it is seen, this is a sample of emails that are to be sent to 6 countries in 6 different languages.</p>
 </div>
 > _Location Bar:_
-> <img src="/QA-Assistant/assets/images/copied_path.png" alt="path of a folder" style="max-width: 420px; display: block; margin-bottom: 3px;">
+> <img src="/QA-Assistant/assets/images/copied_path.png" alt="path of a folder" style="max-width: 420px; display: block; margin-bottom: 30px;">
 > 
 > At this point, you can refresh your knowledge by reading required <a href="#qa_steps">QA Steps</a> again.
 
@@ -67,7 +67,7 @@ _**The user interface shows the options you can choose with the tool in the imag
 
 <div style="overflow: auto">
   <img src="/QA-Assistant/assets/images/qa_options.png" alt="qa_options" style="max-width: 530px; float: left; margin: 0 15px 15px 0;">
-  <p style="color: #567482; background-color: #f3f6fa; border: solid 1px #dce6f0; padding: 0.8rem; overflow: auto; font-size: 16px; line-height: 1.45; border-radius: 0.3rem; margin:0">Copy the path of the folder by clicking inside the location bar<br><br><br> Paste the path to the input row.<br>Then press OK.</p>
+  <p style="color: #567482; background-color: #f3f6fa; border: solid 1px #dce6f0; padding: 0.8rem; overflow: auto; font-size: 16px; line-height: 1.45; border-radius: 0.3rem; margin:0">Options are shown as checkboxes so that they can be executed altogether in one go<br><br><br>After the execution is completed, home screen opens with the last executed path already in input and can be edited for a new run.</p>
 </div>
 > At this point, you can refresh your knowledge by reading required <a href="#qa_steps">QA Steps</a> again.
 > 
