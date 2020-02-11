@@ -92,7 +92,7 @@ _**The user interface shows the options you can choose with the tool in the imag
 *   CTA number 1 means the first clickable element in the email.
 
 <br>
-_Jira Ticket Number _:
+_Jira Ticket Number_ :
 This is only put for a little ease. It opens ticket page of campaign. QA maker might check the campaign's ticket to understand instructions about design or launch.
 
 #### Example cases
