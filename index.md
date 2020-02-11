@@ -40,15 +40,15 @@ _**The user interface shows the options you can choose with the tool in the imag
 ##  Home Screen (Requesting the path)
 
 <div style="overflow: auto">
-  <img src="/QA-Assistant/assets/images/empty_first.png" alt="empty_first.png" style="max-width: 360px; float: left; margin-right: 15px;">
-  <p style="font: 1rem Consolas, 'Liberation Mono', Menlo, Courier, monospace; color: #567482; background-color: #f3f6fa; border: solid 1px #dce6f0; padding: 0.8rem; overflow: auto; font-size: 17px; line-height: 1.45; border-radius: 0.3rem; margin:0">Tool first asks user to enter the path of a folder only consisting of .msg files.<br><br><br>An example of this folder can be seen in the next <a href="#folder">picture</a></p>
+  <img src="/QA-Assistant/assets/images/empty_first.png" alt="empty_first.png" style="max-width: 370px; float: left; margin-right: 15px;">
+  <p style="color: #567482; background-color: #f3f6fa; border: solid 1px #dce6f0; padding: 0.8rem; overflow: auto; font-size: 16px; line-height: 1.45; border-radius: 0.3rem; margin:0">Tool first asks user to enter the path of a folder only consisting of .msg files.<br><br><br>An example of this folder can be seen in the next <a href="#folder">picture</a></p>
 </div>
 <br>
 ## Sample Folder
 
-<div style="overflow: auto">
-  <img id="folder" src="/QA-Assistant/assets/images/folder.png" alt="empty_first.png" style="max-width: 400px; float: left; margin-right: 15px;">
-  <p style="font: 1rem Consolas, 'Liberation Mono', Menlo, Courier, monospace; color: #567482; background-color: #f3f6fa; border: solid 1px #dce6f0; padding: 0.8rem; overflow: auto; font-size: 17px; line-height: 1.45; border-radius: 0.3rem; margin:0">Tool first asks user to enter the path of a folder only consisting of .msg files.<br>An example of this folder can be seen in the next picture</p>
+<div id="folder" style="overflow: auto">
+  <img src="/QA-Assistant/assets/images/folder.png" alt="empty_first.png" style="max-width: 530px; float: left; margin-right: 15px;">
+  <p style="color: #567482; background-color: #f3f6fa; border: solid 1px #dce6f0; padding: 0.8rem; overflow: auto; font-size: 16px; line-height: 1.45; border-radius: 0.3rem; margin:0">This folder should only include .msg files, otherwise program gives _error_.<br><br>As it is seen, this is a sample of emails that are to be sent to 6 countries in 6 different languages.</p>
 </div>
 > This is a blockquote following a header.
 >
