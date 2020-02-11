@@ -39,7 +39,7 @@ _**The user interface shows the options you can choose with the tool in the imag
 
 ##  Home Screen (Requesting the path)
 
-<img src="/assets/images/empty_first.png" alt="empty_first.png" style="max-width: 300px">
+<img src="/QA-Assistant/assets/images/empty_first.png" alt="empty_first.png" style="max-width: 300px">
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
