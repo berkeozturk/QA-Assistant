@@ -40,14 +40,14 @@ _**The user interface shows the options you can choose with the tool in the imag
 ##  Home Screen (Requesting the path)
 
 <div style="overflow: auto">
-  <img src="/QA-Assistant/assets/images/empty_first.png" alt="empty_first.png" style="max-width: 370px; float: left; margin-right: 15px;">
+  <img src="/QA-Assistant/assets/images/empty_first.png" alt="empty_first.png" style="max-width: 370px; float: left; margin: 0 15px 15px 0;">
   <p style="color: #567482; background-color: #f3f6fa; border: solid 1px #dce6f0; padding: 0.8rem; overflow: auto; font-size: 16px; line-height: 1.45; border-radius: 0.3rem; margin:0">Tool first asks user to enter the path of a folder only consisting of .msg files.<br><br><br>An example of this folder can be seen in the next <a href="#folder">picture</a></p>
 </div>
 <br id="folder">
 ## Sample Folder
 
 <div style="overflow: auto">
-  <img src="/QA-Assistant/assets/images/folder.png" alt="empty_first.png" style="max-width: 530px; float: left; margin-right: 15px;">
+  <img src="/QA-Assistant/assets/images/folder.png" alt="folder.png" style="max-width: 530px; float: left; margin: 0 15px 15px 0;">
   <p style="color: #567482; background-color: #f3f6fa; border: solid 1px #dce6f0; padding: 0.8rem; overflow: auto; font-size: 16px; line-height: 1.45; border-radius: 0.3rem; margin:0">This folder should only include .msg files; otherwise the program gives error.<br><br><br>As it is seen, this is a sample of emails that are to be sent to 6 countries in 6 different languages.</p>
 </div>
 > At this point, you can refresh your knowledge by reading required <a href="#qa_steps">QA Steps</a> again.
