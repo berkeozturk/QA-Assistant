@@ -54,6 +54,7 @@ _**The user interface shows the options you can choose with the tool in the imag
 > 
 > <img src="/QA-Assistant/assets/images/copied_path.png" alt="copied_path.png" style="max-width: 370px; float: left; margin: 0 15px 15px 0;">
 <br id="">
+
 ## Start the program
 
 <div style="overflow: auto">
