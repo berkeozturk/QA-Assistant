@@ -51,8 +51,18 @@ _**The user interface shows the options you can choose with the tool in the imag
   <p style="color: #567482; background-color: #f3f6fa; border: solid 1px #dce6f0; padding: 0.8rem; overflow: auto; font-size: 16px; line-height: 1.45; border-radius: 0.3rem; margin:0">This folder should only include .msg files; otherwise the program gives error.<br><br><br>As it is seen, this is a sample of emails that are to be sent to 6 countries in 6 different languages.</p>
 </div>
 > At this point, you can refresh your knowledge by reading required <a href="#qa_steps">QA Steps</a> again.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+> 
+> <img src="/QA-Assistant/assets/images/copied_path.png" alt="copied_path.png" style="max-width: 370px; float: left; margin: 0 15px 15px 0;">
+<br id="">
+## Start the program
+
+<div style="overflow: auto">
+  <img src="/QA-Assistant/assets/images/filled_first.png" alt="filled_first.png" style="max-width: 370px; float: left; margin: 0 15px 15px 0;">
+  <p style="color: #567482; background-color: #f3f6fa; border: solid 1px #dce6f0; padding: 0.8rem; overflow: auto; font-size: 16px; line-height: 1.45; border-radius: 0.3rem; margin:0">Copy the path of the folder by clicking inside the location bar<br><br><br> Paste the path to the input row.<br>Then press OK.</p>
+</div>
+> At this point, you can refresh your knowledge by reading required <a href="#qa_steps">QA Steps</a> again.
+> 
+> <img src="/QA-Assistant/assets/images/copied_path.png" alt="copied_path.png" style="max-width: 370px; float: left; margin: 0 15px 15px 0;">
 
 ### Header 3
 
