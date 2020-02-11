@@ -18,7 +18,7 @@ While making QA for the e-mail campaigns, the team shares local proofs as a zip 
 >
 > E.g. "fr_fr" proof has French copy and goes to the "fr_fr" version of the landing page when a CTA has been performed. 
 
-<br><br>
+<br><br id="qa_steps">
 _These are some of the manual steps after a colleague takes one QA job of a campaign built by another person:_
 
 ## QA Steps
@@ -43,14 +43,14 @@ _**The user interface shows the options you can choose with the tool in the imag
   <img src="/QA-Assistant/assets/images/empty_first.png" alt="empty_first.png" style="max-width: 370px; float: left; margin-right: 15px;">
   <p style="color: #567482; background-color: #f3f6fa; border: solid 1px #dce6f0; padding: 0.8rem; overflow: auto; font-size: 16px; line-height: 1.45; border-radius: 0.3rem; margin:0">Tool first asks user to enter the path of a folder only consisting of .msg files.<br><br><br>An example of this folder can be seen in the next <a href="#folder">picture</a></p>
 </div>
-<br id="folder"></br>
+<br id="folder">
 ## Sample Folder
 
 <div style="overflow: auto">
   <img src="/QA-Assistant/assets/images/folder.png" alt="empty_first.png" style="max-width: 530px; float: left; margin-right: 15px;">
   <p style="color: #567482; background-color: #f3f6fa; border: solid 1px #dce6f0; padding: 0.8rem; overflow: auto; font-size: 16px; line-height: 1.45; border-radius: 0.3rem; margin:0">This folder should only include .msg files; otherwise the program gives error.<br><br><br>As it is seen, this is a sample of emails that are to be sent to 6 countries in 6 different languages.</p>
 </div>
-> At this point, you can refresh your knowledge by reading required QA Steps again.
+> At this point, you can refresh your knowledge by reading required <a href="#qa_steps">QA Steps</a> again.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
