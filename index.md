@@ -67,16 +67,31 @@ _**The user interface shows the options you can choose with the tool in the imag
 
 <div style="overflow: auto">
   <img src="/QA-Assistant/assets/images/qa_options.png" alt="qa_options" style="max-width: 530px; float: left; margin: 0 15px 15px 0;">
-  <p style="color: #567482; background-color: #f3f6fa; border: solid 1px #dce6f0; padding: 0.8rem; overflow: auto; font-size: 16px; line-height: 1.45; border-radius: 0.3rem; margin:0">Options are shown as checkboxes so that they can be executed altogether in one go<br><br><br>After the execution is completed, home screen opens with the last executed path already in input and can be edited for a new run.</p>
+  <p style="color: #567482; background-color: #f3f6fa; border: solid 1px #dce6f0; padding: 0.8rem; overflow: auto; font-size: 16px; line-height: 1.45; border-radius: 0.3rem; margin:0">Options are shown as checkboxes so that they can be executed altogether in one go.<br><br><br>After the execution is completed, home screen opens with the last executed path already in input and can be edited for a new run.</p>
 </div>
-> At this point, you can refresh your knowledge by reading required <a href="#qa_steps">QA Steps</a> again.
+> _View E-mails Online
 > 
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   E-mails are opened in private mode of the browser.
+*   They are opened tab by tab in one window.
+*   Opening order is same as how they are arranged inside the sample folder.
 
-##### Header 5
+
+> _Open in Outlook
+> 
+
+*   E-mails are opened in Outlook.
+*   Opening order is same as how they are arranged inside the sample folder.
+
+
+> _Open CTA Links
+> 
+
+*   Links of the clickable elements in the e-mail are opened.
+*   Multiple links can be opened all at once by a comma separator.
+*   CTA number 1 means the first clickable element in the email.
+
+#### Header 5
 
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
