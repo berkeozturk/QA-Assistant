@@ -91,8 +91,8 @@ _**The user interface shows the options you can choose with the tool in the imag
 *   Multiple links can be opened all at once by a comma separator.
 *   CTA number 1 means the first clickable element in the email.
 
-
-_Jira Ticket Number (ticketing tool specific)_:
+<br>
+_Jira Ticket Number _:
 This is only put for a little ease. It opens ticket page of campaign. QA maker might check the campaign's ticket to understand instructions about design or launch.
 
 #### Example cases
@@ -100,6 +100,11 @@ This is only put for a little ease. It opens ticket page of campaign. QA maker m
 1.  One can directly test if the campaign's landing page is live for every local.
 2.  One can check mobile-view of the emails directly in incognito mode.
 3.  When both View E-mails Online and Open CTA Links are checked; it opens one e-mail and the related landing page(s) subsequently.
+
+
+<h1 style="color: #eb4f34">What does the tool facilitate?</h1>
+*   The unvaluable time spent to open local e-mails one by one and all clicking efforts decrease.
+*   This benefits to saving time and more importantly it positively affects team members’ motivation and concentration by decreasing the robotic parts of QA process.
 
 ###### Header 6
 
