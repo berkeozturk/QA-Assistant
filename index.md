@@ -10,9 +10,9 @@ It was developed for the purpose of making some steps of QA process automaticall
 
 © This program was coded in Python language by _Berke Öztürk_
 <br><br><br>
-**The process:**
+**Root cause of this need:**
 
-While making QA for the e-mail campaigns, the team shares local proofs as a zip file that includes outlook (.msg) mails.
+While making QA for the e-mail campaigns, the team shares local proofs as a zip file that includes outlook (.msg) mails. Since checking these emails both online and offline are fatiguing; the opening and clicking efforts for these actions must be optimized.
 
 > Local proofs: emails that have dynamic text language and the URLs.
 >
@@ -37,7 +37,7 @@ _These are some of the manual steps after a colleague takes one QA job of a camp
 
 _**The user interface shows the options you can choose with the tool in the images below:**_
 
-##  Home Screen (Requesting the path)
+##  Home Screen
 
 <div style="overflow: auto">
   <img src="/QA-Assistant/assets/images/empty_first.png" alt="empty_first.png" style="max-width: 370px; float: left; margin: 0 15px 15px 0;">
@@ -55,14 +55,14 @@ _**The user interface shows the options you can choose with the tool in the imag
 > 
 > At this point, you can refresh your knowledge by reading required <a href="#qa_steps">QA Steps</a> again.
 
-<p style="padding-top: 1px" id="folder"></p>
-## Start the program
+<p style="padding-top: 1px"></p>
+## Starting the program
 
 <div style="overflow: auto">
   <img src="/QA-Assistant/assets/images/filled_first.png" alt="filled_first.png" style="max-width: 370px; float: left; margin: 0 15px 15px 0;">
   <p style="color: #567482; background-color: #f3f6fa; border: solid 1px #dce6f0; padding: 0.8rem; overflow: auto; font-size: 16px; line-height: 1.45; border-radius: 0.3rem; margin:0">Copy the path of the folder by clicking inside the location bar.<br><br> Paste the path to the input row.<br><br>Then press OK.</p>
 </div>
-<p style="padding-top: 1px" id="folder"></p>
+<p style="padding-top: 1px"></p>
 ## QA Options
 
 <div style="overflow: auto">
@@ -84,18 +84,18 @@ _**The user interface shows the options you can choose with the tool in the imag
 *   Opening order is same as how they are arranged inside the sample folder.
 
 
-> _Open CTA Links_
+> #### _Open CTA Links_
 > 
 
 *   Links of the clickable elements in the e-mail are opened.
 *   Multiple links can be opened all at once by a comma separator.
 *   CTA number 1 means the first clickable element in the email.
 
-#### Header 5
+#### Example cases
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+1.  One can directly test if the campaign's landing page is live for every local.
+2.  One can check mobile-view of the emails directly in incognito mode.
+3.  When both View E-mails Online and Open CTA Links are checked; it opens one e-mail one landing page subsequently.
 
 ###### Header 6
 
