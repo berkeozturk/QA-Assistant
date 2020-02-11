@@ -46,8 +46,9 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 <br><br>
 
 <div style="overflow: auto">
-  <img src="/QA-Assistant/assets/images/empty_first.png" alt="empty_first.png" style="max-width: 360px; float: left">
-  <pre class="highlight">asdasdlasdlajsldalsdjla</pre>
+  <img src="/QA-Assistant/assets/images/empty_first.png" alt="empty_first.png" style="max-width: 360px; float: left; margin-right: 15px;">
+  <p style="font: 1rem Consolas, "Liberation Mono", Menlo, Courier, monospace; color: #567482; background-color: #f3f6fa; border: solid 1px #dce6f0; padding: 0.8rem; overflow: auto; font-size: 17px; line-height: 1.45; border-radius: 0.3rem;">asdasdlasdlajsldalsdjla</p>
+  <pre style="highlight">asdasdlasdlajsldalsdjla</pre>
 </div>
 
 ## Header 2
